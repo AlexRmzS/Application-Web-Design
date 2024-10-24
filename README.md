@@ -2,7 +2,7 @@
 
 **Nombre:** [Luis Alejandro Ramirez Salazar]  
 **Matrícula:** [2918965]  
-**Carrera:** [Ingenieria en Desarrollo de Software]  
+**Carrera:** [IDS]  
 **Semestre:** [5to Semestre]  
 
 **Materia:** [Diseno de Aplicaciones Web]  
